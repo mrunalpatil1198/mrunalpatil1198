@@ -7,7 +7,7 @@ From software development to data analysis, I'm eager to explore different domai
 
 - 🎓 I am currently pursuing my Master of Science in Computer Science (MS CS) at Indiana University Bloomington.
 - 🚀 I thrive on taking up new challenges, embracing diverse tech stacks, and working on exciting projects that push the boundaries of my skills.
-- 💡 LeetCode addict: Embracing the thrill of coding challenges, unraveling complex algorithms, and unleashing the power of problem-solving!
+- 💡 LeetCode ethusiast: Embracing the thrill of coding challenges, unraveling complex algorithms, and unleashing the power of problem-solving!
 - 💬 Ask me about the Fascinating World of Cats and the Vibrant Palette of Colors.
 - ⚡ Fun Fact: I possess a jigsaw puzzle superpower!
 ## Tech Stack
