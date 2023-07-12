@@ -13,21 +13,14 @@ From software development to data analysis, I'm eager to explore different domai
 ## Tech Stack
 
 ### Languages
-- Java
-- Python
-- JavaScript
+Java | Python | JavaScript
 
 ### Databases
-- MySQL
-- NoSQL
+MySQL | NoSQL
 
 ### Frameworks and Libraries
-- Spring Boot
-- Flask
-- REST APIs
+Spring Boot | Flask | REST APIs
 
 ### DevOps and Tools
-- CI/CD
-- Docker
-- Kubernetes
+CI/CD | Docker | Kubernetes
 
