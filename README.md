@@ -10,17 +10,4 @@ From software development to data analysis, I'm eager to explore different domai
 - 💡 Consider me a LeetCode enthusiast! I find joy in unraveling the mysteries of complex algorithms and always trying to come up with more optimized solution.
 - 💬 Ask me about the Fascinating World of Cats and the Vibrant Palette of Colors.
 - ⚡ Fun Fact: I possess a jigsaw puzzle superpower!
-## Tech Stack
-
-### Languages
-Java | Python | JavaScript
-
-### Databases
-MySQL | NoSQL
-
-### Frameworks and Libraries
-Spring Boot | Flask | REST APIs
-
-### DevOps and Tools
-CI/CD | Docker | Kubernetes
 
